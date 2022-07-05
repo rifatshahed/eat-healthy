@@ -1,0 +1,134 @@
+body{
+    margin: 0;
+}
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-size: 60px;
+    color: #575757;
+}
+.orange{
+    color: #FBA24F;
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 145px;
+}
+.top-banner p{
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    color: #828282;
+    padding-bottom: 30px;
+    
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 80%;
+}
+.link-button{
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+    background-image: linear-gradient(orange, rgb(255, 62, 62));
+    padding: 20px 50px;
+    border-radius: 30px;
+    color: white;
+    padding-top: 15px;
+}
+.about{
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-size: 40px;
+}
+.lorem-text{
+    font-family: 'Manrope', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    padding-bottom: 50px;
+    
+}
+#image-two{
+    width: 63%;
+    padding-left: 60px;
+    margin-left: 40px;
+}
+.extra-width{
+    width: 50%;
+    padding-right: 90px;
+    
+}
+.about-me{
+    /* height: 1170px; */
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-position: initial;
+}
+.recipe-item{
+    width:40%;
+    margin-left: 60px;
+    margin-right:60px;
+    padding-left: 30px;
+    border-radius: 40px;
+    box-shadow: 10px 10px 40px gray;
+    
+}
+.recipe-item img{
+    width: 80%;
+    padding-left: 40px;
+    padding-top: 25px;
+}
+.my-recipe-area h2{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-size: 36px;
+    color: rgb(88, 88, 88);
+}
+.my-recipe-area p{
+    text-align: center;
+    font-family: 'Manrope', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    color: gray;
+}
+#recipe-text-one{
+    font-family: 'Manrope', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+#recipe-text-two{
+    font-family: 'Manrope', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+.follower-section{
+    display: flex;
+    width: 100%;
+    margin-left: 60px;
+    margin-right:60px;
+    padding-left: 30px;
+    border-radius: 10px;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    box-shadow: 10px 10px 40px gray;
+}
+footer{
+    text-align: center;
+    height: 250px;
+    background-color: #0B0D17;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+footer h3{
+    color: #5B5B5B;
+    padding-top: 70px;
+}
+footer p{
+    color: #ffffff;
+    padding-top: 20px;
+}
